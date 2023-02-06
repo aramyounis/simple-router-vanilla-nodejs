@@ -1,0 +1,14 @@
+{
+  "name": "simple-router-vanilla-nodejs",
+  "version": "1.0.0",
+  "description": "simple router with vanilla nodejs without any library ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "AramYounis",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
